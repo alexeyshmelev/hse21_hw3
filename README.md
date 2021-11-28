@@ -34,3 +34,24 @@
 | SRR3414635    | контрольный | 20956475 |  20395865&nbsp;(97.32%) | 18428317&nbsp;(87.94%) | 16275997
 | SRR3414636    | контрольный | 20307147 |  19757059&nbsp;(97.29%) | 17825380&nbsp;(87.78%) | 15757580
 | SRR3414637    | контрольный | 20385570 |  19847291&nbsp;(97.36%) | 17844858&nbsp;(87.54%) | 15736978
+
+### Графики из анализа DESeq2
+
+* MA-plot
+
+![image](https://user-images.githubusercontent.com/60858323/143787504-825a75c9-1e26-49a2-a8fe-25deb44eab5b.png)
+
+* Heatmap
+
+![image](https://user-images.githubusercontent.com/60858323/143787547-f85fd764-2c07-414b-be7a-0bc71c2ff3ad.png)
+
+*Дополнительный график:*
+
+![image](https://user-images.githubusercontent.com/60858323/143787574-6de25a3a-8c98-42b2-8006-16e1960c1daa.png)
+
+### Значения "Normalized counts" в контрольных и перепрограммированных образцах
+
+![image](https://user-images.githubusercontent.com/60858323/143787629-3ce0debf-0a5a-451a-a852-90a47177e04d.png)
+
+
+
