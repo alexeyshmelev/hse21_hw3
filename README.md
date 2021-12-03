@@ -52,6 +52,9 @@
 ### Значения "Normalized counts" в контрольных и перепрограммированных образцах
 
 ![image](https://user-images.githubusercontent.com/60858323/143787629-3ce0debf-0a5a-451a-a852-90a47177e04d.png)
+![image](https://user-images.githubusercontent.com/60858323/144661106-a3c074ee-0d5e-4844-ab4c-b3d3b2e29fae.png)
+![image](https://user-images.githubusercontent.com/60858323/144661165-e375b2a8-ddb2-46a3-affe-d2f793134f3d.png)
+
 
 
 
